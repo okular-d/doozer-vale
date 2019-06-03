@@ -80,4 +80,3 @@ Distributed under the [MIT](https://choosealicense.com/licenses/mit) license.
 ## Acknowledgements
 
 - [Boilr](https://github.com/Ilyes512/boilr)
-- [Best-README-Template](https://github.com/testthedocs/Best-README-Template)
